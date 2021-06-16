@@ -15,8 +15,9 @@ a:hover, span:hover{
 	color: grey !important;
 }
 
-.logo{
+.name img{
 	height: 30px;
+	color: orange !important;
 }
 
 .container{
@@ -39,6 +40,7 @@ a:hover, span:hover{
 
 .card-img-top{
 	margin-top: 15px;
+	height: 260px;
 }
 
 .card-title{
@@ -148,6 +150,6 @@ a:hover, span:hover{
 }
 
 a .card-title{
-	margin-bottom: -1px;
+	margin-bottom: -10px;
 }
 
