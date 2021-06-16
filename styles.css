@@ -1,0 +1,153 @@
+html{
+	
+}
+
+nav{
+	background-color:#F1EFEF !important;
+}
+
+a{
+	text-decoration: none !important;
+	color: black !important;
+}
+
+a:hover, span:hover{
+	color: grey !important;
+}
+
+.logo{
+	height: 30px;
+}
+
+.container{
+	margin-top:30px;
+	margin-bottom: 40px;
+}
+
+.card a {
+	padding: 0px 15px;
+	color: black;
+	font-size: 5px !important;
+}
+
+.card{
+	border-radius: 10px !important;
+	margin-top: 10px;
+	margin-right: 10px;
+
+}
+
+.card-img-top{
+	margin-top: 15px;
+}
+
+.card-title{
+	margin-top: 15px;
+	height:42px;
+	font-size: 18px;
+}
+
+.card-text{
+	bottom: 0% !important;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+/*.btn-bag{
+	background-color: orange;
+	border-radius:50%;
+	height:60px;
+	width: 60px;
+	right: 0;
+	bottom: 0;
+	position: sticky;
+	border: none;
+}
+
+.btn-bag span{
+	font-size: 30px;
+}
+*/
+/*.bag-outline{
+	font-size: 30px !important;
+}*/
+
+.name{
+	position: absolute;
+	color: black;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.nav a{
+	padding: 15px;
+	color: black;
+}
+
+.material-icons-outlined{
+	color: black;
+}
+
+.btn{
+	background-color: transparent !important;
+	border: none !important;
+	position: fixed;
+    bottom: 120px;
+    right: 2px;
+    color: orange !important;
+}
+
+.mail-btn a{
+	font-size: 60px;
+}
+
+.footer{
+	width: 100% ;
+	background-color:#F1EFEF !important;
+	padding: 25px;
+}
+
+.footer a{
+	font-size: 20px;
+	margin: 10px 15px 10px 5px;
+}
+
+.socials{
+	display: inline-block;
+}
+
+.address{
+	float: right;
+	display: inline;
+}
+
+.phone{
+	float: center;
+	display: inline;
+}
+
+/*book details*/
+
+
+.book-details{
+	margin: 20px;
+}
+
+.action{
+	float: right;
+}
+
+.action p{
+	font-size: 30px;
+	margin-left: 15px;
+}
+
+.action span{
+	font-size: 40px !important;
+	margin: 10px;
+}
+
+a .card-title{
+	margin-bottom: -1px;
+}
+
